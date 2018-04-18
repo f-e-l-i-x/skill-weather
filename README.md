@@ -6,7 +6,7 @@ Gives back information on the default location for weather or if you specify a l
 
 ## Examples 
 * "what is the weather"
-* "what is the weather tommorow"
+* "what is the weather tomorrow"
 * "what is the weather in san francisco"
 
 ## Credits 
